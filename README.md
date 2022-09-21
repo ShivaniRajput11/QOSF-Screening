@@ -44,4 +44,5 @@ print(A)
 30
 
 Bonus: 
+Use your proposal to design different inputs, and check the limitations of your simulator and framework, consider number of qubits, time of execution, the depth of the quantum circuit and number of the gates.
 
