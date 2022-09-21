@@ -15,25 +15,25 @@ To make a multiplier, for this we design the input of two positive integers to a
 you cannot use any implementation already designed by the framework
 
 
-def multiplier(int:number_1, int ,number_2):
+## def multiplier(int:number_1, int ,number_2):
      “””
- number_1 : integer positive value that is the first parameter to the multiplier function,
-number_2 : integer positive value that is the second parameter to the multiplier function.
-Return the positive integer value of the multiplication between number_1 and number_2
+## number_1 : integer positive value that is the first parameter to the multiplier function,
+## number_2 : integer positive value that is the second parameter to the multiplier function.
+## the positive integer value of the multiplication between number_1 and number_2
      “””
 
-     # use a framework that works with quantum circuits, qiskit, cirq, pennylane, etc. 
+## use a framework that works with quantum circuits, qiskit, cirq, pennylane, etc. 
 
 
-      # define a quantum circuit to convert the integer values in qubits, example bases encoding 
-      # basis encoding: n bits are equals to a state of n qubits, example 
-      # The integer value 3 convert to a binary string that is 11, the basis encoding is |11⟩
+## define a quantum circuit to convert the integer values in qubits, example bases encoding 
+## basis encoding: n bits are equals to a state of n qubits, example 
+## The integer value 3 convert to a binary string that is 11, the basis encoding is |11⟩
      
-      # use the state of the art to check the possibles ways to design a multiplier
+## use the state of the art to check the possibles ways to design a multiplier
 
-  Return # the result of the quantum circuit into an integer value
+## Return the result of the quantum circuit into an integer value
 
-# consider print your quantum circuit,
+## consider print your quantum circuit,
 
 
 Example:
